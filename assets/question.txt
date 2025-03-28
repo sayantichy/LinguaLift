@@ -1,0 +1,41 @@
+Example : 
+
+🧭 Phrase 1: “Can you help me, please?”
+🇧🇩 Bengali:
+আপনি কি আমাকে সাহায্য করতে পারেন?
+(Apni ki amake shahajjo korte paren?)
+
+🇪🇸 Spanish:
+¿Puede ayudarme, por favor?
+
+🗺️ Phrase 2: “Where is the nearest bus/train station?”
+🇧🇩 Bengali:
+সবচেয়ে কাছের বাস/ট্রেন স্টেশন কোথায়?
+(Shobcheye kacher bus/train station kothay?)
+
+🇪🇸 Spanish:
+¿Dónde está la estación de autobuses/trenes más cercana?
+
+🧳 Phrase 3: “I am lost, can you guide me?”
+🇧🇩 Bengali:
+আমি পথ হারিয়ে ফেলেছি, আপনি কি আমাকে দিক নির্দেশ করতে পারেন?
+(Ami poth hariye felechi, apni ki amake dik nirdesh korte paren?)
+
+🇪🇸 Spanish:
+Estoy perdido, ¿puede guiarme?
+
+🏥 Phrase 4: “Is there a hospital nearby?”
+🇧🇩 Bengali:
+কাছাকাছি কি কোনো হাসপাতাল আছে?
+(Kachakachi ki kono hospital ache?)
+
+🇪🇸 Spanish:
+¿Hay un hospital cerca?
+
+🍽️ Phrase 5: “Where can I find local food?”
+🇧🇩 Bengali:
+আমি কোথায় স্থানীয় খাবার পেতে পারি?
+(Ami kothay sthaniyo khabar pete pari?)
+
+🇪🇸 Spanish:
+¿Dónde puedo encontrar comida local?
