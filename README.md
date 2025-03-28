@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/4a80c6d9-37b1-4e9a-a67f-529a9eb1b150
 # 🌍 LinguaLift: Your Smart Multimodal Travel Assistant
 
 **LinguaLift** is an AI-powered travel assistant that helps users translate text, speech, and images in real-time, while also suggesting tourist spots using Azure OpenAI. Designed with empathy and accessibility in mind, it bridges the communication gap for travelers — enabling smoother, smarter, and more confident exploration.
