@@ -28,10 +28,10 @@ Travelers often face communication barriers in unfamiliar countries. We wanted t
 HTML,CSS,JavaScript,VanillaJS,Mermaid.js
 
 **Azure Services**:  
-AzureTranslator,AzureSpeech-to-Text,AzureComputerVision,AzureOpenAI,gpt-35-turbo,AzureContentSafety
+AzureTranslator, AzureSpeech-to-Text, AzureComputerVision, AzureOpenAI: gpt-35-turbo, AzureContentSafety
 
 **Hosting & Dev Tools**:  
-GitHubPages,GitHubCopilot,AzureStaticWebApps,AzureFunctions (optional)
+GitHubPages, GitHubCopilot, AzureStaticWebApps, AzureFunctions (optional)
 
 ---
 
